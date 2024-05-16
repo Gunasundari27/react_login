@@ -1,9 +1,15 @@
 .App {
   text-align: center;
+  color: #808B96 !important;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
@@ -14,25 +20,44 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.input-group-text,
+.form-control {
+  outline: 0 !important;
+  border-width: 0 0 2px !important;
+}
+
+.input-group-text,
+.form-control:hover {
+  box-shadow: 0 0 0 5px rgb(255, 255, 254) !important;
+}
+
+.input-group-text,
+.form-control:focus {
+  box-shadow: 0 0 0 5px rgb(255, 255, 254) !important;
+}
+
+.loginBtn {
+  border-radius: 25px !important;
+}
+
+.error {
+  color: #FF5733;
+}
+
+.dashboardImg {
+  width: 300px !important;
+  height: 200px !important;
+  display: inline-block !important;
 }

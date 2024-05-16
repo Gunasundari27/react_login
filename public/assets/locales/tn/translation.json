@@ -1,0 +1,15 @@
+{
+    "language": "மொழி",
+    "Welcome to dashboard": "டாஷ்போர்டுக்கு வரவேற்கிறோம்",
+    "Email Address": "மின்னஞ்சல் முகவரி",
+    "Password": "கடவுச்சொல்",
+    "Login": "உள்நுழைய",
+    "Dashboard": "டாஷ்போர்டு",
+    "Logout": "வெளியேறு",
+    "Forgot your password": "உங்கள் கடவுச்சொல்லை மறந்து விட்டீர்களா",
+    "Email address is required": "மின்னஞ்சல் முகவரி தேவை!",
+    "This is not a valid email address format": "இது சரியான மின்னஞ்சல் முகவரி வடிவம் அல்ல",
+    "Password is required": "கடவுச்சொல் தேவை",
+    "Password must be more than 8 characters": "கடவுச்சொல் 8 எழுத்துகளுக்கு மேல் இருக்க வேண்டும்",
+    "Password cannot exceed more than 16 characters": "கடவுச்சொல் 16 எழுத்துகளுக்கு மேல் இருக்கக்கூடாது"
+}

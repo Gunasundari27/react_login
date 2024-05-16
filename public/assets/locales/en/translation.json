@@ -1,0 +1,15 @@
+{
+    "language": "langue",
+    "Welcome to dashboard": "Welcome to dashboard",
+    "Email Address": "Email Address",
+    "Password": "Password",
+    "Login": "Login",
+    "Dashboard": "Dashboard",
+    "Logout": "Logout",
+    "Forgot your password": "Forgot your password",
+    "Email address is required": "Email address is required",
+    "This is not a valid email address format": "This is not a valid email address format",
+    "Password is required": "Password is required",
+    "Password must be more than 8 characters": "Password must be more than 8 characters",
+    "Password cannot exceed more than 16 characters": "Password cannot exceed more than 16 characters"
+}
